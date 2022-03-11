@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Mi primera pagina Git
+## Herramientas y métodos de Ingenieria del Software
+### Jose Puertas Alonso
 
 You can use the [editor on GitHub](https://github.com/JosePuertasAlonso/JosePuertasAlonso.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +13,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Mi primera pagina Git
-## Herramientas y métodos de Ingenieria del Software
-### Jose Puertas Alonso
+# Header 1
+## Header 2
+### Header 3
 
 - Bulleted
 - List
