@@ -2,11 +2,15 @@
 ## Herramientas y métodos de Ingenieria del Software
 ### Jose Puertas Alonso
 
-You can use the [editor on GitHub](https://github.com/JosePuertasAlonso/JosePuertasAlonso.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Enlace a Mi GitHub https://github.com/JosePuertasAlonso
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esta pagina web sera usada para la asignatura de Herramientas y métodos de Ingenieria del Software
 
-### Markdown
+
+
+---------------------------------------------------------------------------------------------------
+
+## Ayuda Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
